@@ -24,10 +24,7 @@ public class Principal {
                         JOptionPane.showMessageDialog(null, "Fila prioritária.");
                     }
                 }
-            }
-            
+            } 
         }
-        
-    }
-    
+    }   
 }
